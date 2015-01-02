@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.network;
+package com.alzatezabala.sazal.network;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

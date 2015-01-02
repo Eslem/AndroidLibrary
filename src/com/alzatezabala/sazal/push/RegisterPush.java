@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.push;
+package com.alzatezabala.sazal.push;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -12,9 +12,9 @@ import android.os.Build;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.alzatezabala.sandroidlibrary.libreria.LibSharedPreferences;
-import com.alzatezabala.sandroidlibrary.network.Network;
-import com.alzatezabala.sandroidlibrary.network.Request;
+import com.alzatezabala.sazal.libreria.LibSharedPreferences;
+import com.alzatezabala.sazal.network.Network;
+import com.alzatezabala.sazal.network.Request;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.gcm.GoogleCloudMessaging;

@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.view;
+package com.alzatezabala.sazal.view;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;

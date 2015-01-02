@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.network;
+package com.alzatezabala.sazal.network;
 
 import android.os.AsyncTask;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.network;
+package com.alzatezabala.sazal.network;
 
 /**
  * Created by Eslem on 08/10/2014.

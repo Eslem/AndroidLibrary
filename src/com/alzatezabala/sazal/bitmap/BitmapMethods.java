@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.bitmap;
+package com.alzatezabala.sazal.bitmap;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
 import android.graphics.Canvas;

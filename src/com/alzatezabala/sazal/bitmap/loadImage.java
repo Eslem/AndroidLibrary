@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.bitmap;
+package com.alzatezabala.sazal.bitmap;
 
 import java.io.InputStream;
 

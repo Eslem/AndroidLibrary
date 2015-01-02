@@ -1,4 +1,4 @@
-package com.alzatezabala.sandroidlibrary.libreria;
+package com.alzatezabala.sazal.libreria;
 
 import android.content.Context;
 import android.content.SharedPreferences.Editor;
