@@ -59,6 +59,14 @@ public class LibSharedPreferences {
         } else
             return "";
     }
+    
+    public void remove(String key){
+    	sharedpreferences = _ctx.getSharedPreferences(_name,
+                Context.MODE_PRIVATE);
+        Editor editor = sharedpreferences.edit();
+        editor.remove(key);
+        editor.commit();
+    }
 
     public void empty() {
         sharedpreferences = _ctx.getSharedPreferences(_name,
