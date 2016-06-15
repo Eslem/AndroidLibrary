@@ -1,4 +1,9 @@
-AndroidLibrary
+AndroidLibrary [unmaintained]
 ==============
 
-My own android library
+Android library
+
+* Push
+* Http Post Get
+* Rounded Image
+* Img Loader
